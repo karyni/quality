@@ -16,7 +16,7 @@ Apesar das empresas utilizarem a ferramenta com o mesmo propósito, cada uma aca
 Se cada uma das 125 empresas sugerir alguma mudança, por mais leve que seja, outras empresas que estavam satisfeitas com o serviço podem estranhar a mudança. 
 Se cada um dos 45 funcionários efetuar uma mudança sem comunicar efetivamente outra equipe, sem realizar os testes necessários para que a interface, o servidor e todos os sistemas que em conjunto estejam em pleno funcionamento, problemas ocorreram em algum lado.
 
-Existem 45 funcionários, podem ser dispostos em 9 equipes com 5 integrantes, cada uma possuindo um líder ou gerente a quem comunicarão suas atividades, lideres que por sua vez estarão em contato uns com os outros para que todos saibam do desenvolvimento dos projetos. 
+Existem 45 funcionários, podem ser dispostos em 9 equipes com 5 integrantes, as empresas devem ser distribuidas as equipes, cada equipe possuindo um líder ou gerente a quem comunicarão suas atividades, lideres que por sua vez estarão em contato uns com os outros para que todos saibam do desenvolvimento dos projetos. 
 A utilização do método Scrum é recomendada por possuir reuniões diárias sobre o progresso do projeto, mantendo todos atualizados. 
 
 No método Scrum, as equipes são multidisciplinares, a pessoa com conhecimento de QA deve compartilhar seu conhecimento e monitorar os integrantes para que cada um seja responsável por realizar testes de garantia de qualidade com frequência e reafirmar a boa utilização do software em cada área, mantendo o cliente satisfeito. Ou seja, todos os integrantes devem ser parte do QA.
